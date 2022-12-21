@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Iphone 14 Pro",
+    "price": "543500",
+    "thumbnail": "https://media.ambito.com/p/fd43c679427709642123f8e17cbc4ff6/adjuntos/239/imagenes/040/135/0040135070/730x0/smart/iphone-14-pro-y-14-pro-max-2jpg.jpg",
+    "id": 1
+  },
+  {
+    "title": "Motorola Edge 30 Ultra",
+    "price": "220200",
+    "thumbnail": "https://www.clarin.com/img/2022/09/09/Zqtong4JE_720x0__1.jpg",
+    "id": 2
+  },
+  {
+    "title": "Samsung S22 Ultra",
+    "price": "342500",
+    "thumbnail": "https://images.samsung.com/ar/smartphones/galaxy-s22-ultra/buy/S22Ultra_ColorSelection_Green_MO.jpg",
+    "id": 3
+  },
+  {
+    "title": "One Plus 10 Pro",
+    "price": "234500",
+    "thumbnail": "https://m.media-amazon.com/images/I/81qOD8EZTjL._AC_SL1500_.jpg",
+    "id": 4
+  },
+  {
+    "title": "Motorola G200",
+    "price": "115450",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_920330-MLA52131086514_102022-O.jpg",
+    "id": 5
+  },
+  {
+    "title": "Samsung A53",
+    "price": "97600",
+    "thumbnail": "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/664/621/products/screenshot_1-removebg-preview21-1440bb616925b0e4c416531744453348-640-0.png",
+    "id": 6
+  }
+]
